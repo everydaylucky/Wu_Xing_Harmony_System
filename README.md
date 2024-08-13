@@ -1,4 +1,4 @@
-# Wu_Xing_Harmony_System (Five-Element Harmony System)
+# Five-Element (Wu Xing) Harmony System 
 
 Five-Element Facial Expression Recognition
 ---

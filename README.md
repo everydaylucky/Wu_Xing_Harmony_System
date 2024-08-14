@@ -22,4 +22,4 @@ Please enter the following command in the terminal
 `cd musicgen`   
 `sudo apt-get install ffmpeg`    
 `pip install reuiqrements.txt`   
-Then open musicgen.py, in `description`, you can change the prompt in the `description` to the music prompt generated in Five-Element Chat, and then change the `earth` in `torchaudio.load('./earth.wav')` to the corresponding five-element music type. Then run `musicgen.py` to generate music.
+Then open `musicgen.py`, in `description`, you can change the prompt in the `description` to the music prompt generated in Five-Element Chat, and then change the `earth` in `torchaudio.load('./earth.wav')` to the corresponding five-element music type. Then run `musicgen.py` to generate music.

@@ -18,7 +18,7 @@ Please follow the instructions provided in this link: https://github.com/michael
 
 Five-Element Music Generation
 ---
-Please enter the following command in the terminal 
+Please enter the following command in the terminal    
 `cd musicgen`   
 `sudo apt-get install ffmpeg`    
 `pip install reuiqrements.txt`   

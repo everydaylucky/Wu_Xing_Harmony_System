@@ -12,6 +12,8 @@ The Five-Element Harmony System bridges the technological gap in Oriental music 
 
 By using AI, the system also expands the therapeutic repertoire available in FEMT, generating appropriate music that fits within the Five-Element framework and addressing the limitation of restricted musical selections. Furthermore, the tool adds a layer of scientific rigor to Oriental music therapy, as its data-driven approach can be validated through empirical studies, bringing FEMT closer to the scientifically supported frameworks found in Western music therapy. This technological integration not only enhances the effectiveness of music therapy within traditional Chinese medicine but also opens the door to scalable, reproducible, and personalized treatments that can compete with modern Western methods.
 
+![Five-Element Harmony System](https://github.com/everydaylucky/Wu_Xing_Harmony_System/blob/main/newimg.png)
+
 ## Five-Element Facial Expression Recognition
 
 Running `video.py` will automatically open the camera to detect facial expressions and upload them to the server for processing and recognition.
